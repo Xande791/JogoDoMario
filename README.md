@@ -1,3 +1,3 @@
--HTML: Mostra o HUD da interface. 
+-HTML: Faz com que a engine do programa funcionar. 
 -CSS: Estiliza a parte do jogo. 
 -Script.JS: Onde é tem os comandos do jogo.
